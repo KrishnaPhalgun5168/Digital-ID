@@ -1,5 +1,5 @@
 # Digital-ID
-#AndroidStudio #Java
+#Zxing #AndroidStudio #Java
 </br>
 This app generates barcode corresponding to the given roll number.
 </br>
