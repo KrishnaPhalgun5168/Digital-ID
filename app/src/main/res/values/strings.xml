@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DigitalID</string>
+    <string name="RollNumber">Roll Number</string>
+    <string name="Generator">Generate DigitalID</string>
+    <string name="inputrollnumber">imtIMT0123456789</string>
+</resources>
